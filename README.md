@@ -5,6 +5,8 @@
 - Build robust and dynamic Python objects.
 - Accomplish complex programming tasks using knowledge from previous modules.
 
+***
+
 ## Key Vocab
 
 - **Class**: a bundle of data and functionality. Can be copied and modified to
@@ -30,6 +32,8 @@ methods** (for **d**ouble **under**score).
 - **Attribute**: variables that belong to an object.
 - **Property**: attributes that are controlled by methods.
 
+***
+
 ## Conclusion
 
 Now we should have a basic grasp on object-oriented programming. As discussed
@@ -40,11 +44,14 @@ In this section we explained the concept of class and instance variables, as
 well as instance methods. We learned about creating properties using Python's
 built-in `property()` function, as well as how to dynamically manipulate
 attributes using `attr()` functions. We can now set instance attributes from
-the `__init__` magic method at the same time as we instantiate objects.
+the `__init__` magic method at the same time as we instantiate objects using
+the `self` keyword.
 
 What we will be able to achieve is shared functionality throughout the
 application as needed. You're well on our way to having enough knowledge of OOP
 to develop your own fully functional applications!
+
+***
 
 ## Resources
 
