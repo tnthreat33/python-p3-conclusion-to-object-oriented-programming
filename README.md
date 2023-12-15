@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Build robust and dynamic Python objects.
-- Accomplish complex programming tasks using knowledge from previous modules.
+- Accomplish complex programming tasks using knowledge from previous modules..
 
 ***
 
